@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo Winston Theme</title>
+    <link>https://miastian.github.io/tags/</link>
+    <description>Recent content in Tags on Hugo Winston Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://miastian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>liberty</title>
+      <link>https://miastian.github.io/tags/liberty/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://miastian.github.io/tags/liberty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>surveillance</title>
+      <link>https://miastian.github.io/tags/surveillance/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://miastian.github.io/tags/surveillance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>loyalty</title>
+      <link>https://miastian.github.io/tags/loyalty/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://miastian.github.io/tags/loyalty/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
