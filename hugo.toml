@@ -1,0 +1,27 @@
+baseURL = "http://localhost:1313/"
+languageCode = "zh-cn"
+title = "你的名字"
+
+theme = "PaperMod"
+themesDir = "themes"
+
+enableRobotsTXT = true
+buildDrafts = false
+
+[params]
+  env = "development"
+  description = "一个个人网站"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
