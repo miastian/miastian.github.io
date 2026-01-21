@@ -14,28 +14,30 @@ buildExpired = false
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
+  [params.mainSections]
+    main = ["posts"]
 
 [menu]
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
-    url = "/posts/"
+    url = "posts/"
     weight = 1
 
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "about/"
     weight = 2
 
   [[menu.main]]
     identifier = "now"
     name = "Now"
-    url = "/now/"
+    url = "now/"
     weight = 3
 
   [[menu.main]]
     identifier = "labs"
     name = "Labs"
-    url = "/labs/"
+    url = "labs/"
     weight = 4
