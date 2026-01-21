@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://miastian.github.io/"
 languageCode = "zh-cn"
 title = "你的名字"
 theme = "PaperMod"
