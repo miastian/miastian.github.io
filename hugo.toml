@@ -9,7 +9,7 @@ buildFuture = false
 buildExpired = false
 
 [params]
-  env = "development"
+  env = "production"
   description = "一个个人网站"
   defaultTheme = "auto"
   ShowReadingTime = true
