@@ -1,0 +1,11 @@
+{
+  "2026-01-23": {
+    "minutes": 40,
+    "sessions": 2,
+    "types": [
+      "run",
+      "walk"
+    ],
+    "note": "测试"
+  }
+}
