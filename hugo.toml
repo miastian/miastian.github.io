@@ -14,6 +14,7 @@ buildExpired = false
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
+  customCSS = ["css/custom.css"]
   [params.mainSections]
     main = ["posts"]
 
@@ -41,3 +42,8 @@ buildExpired = false
     name = "Labs"
     url = "labs/"
     weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

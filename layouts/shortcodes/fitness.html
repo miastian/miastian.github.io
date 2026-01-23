@@ -1,0 +1,20 @@
+<div class="fitness-wrapper">
+  <div id="fitness-stats" class="fitness-stats"></div>
+
+  <div class="fitness-body">
+    <div id="fitness-y-axis" class="fitness-y-axis"></div>
+
+    <div class="fitness-main">
+      <div id="fitness-x-axis" class="fitness-x-axis"></div>
+      <div
+        id="fitness-heatmap"
+        class="fitness-heatmap"
+        data-source="{{ "data/fitness.json" | relURL }}">
+      </div>
+    </div>
+  </div>
+
+  <div id="fitness-tooltip" class="fitness-tooltip"></div>
+</div>
+
+<script src="{{ "labs/fitness/heatmap.js" | relURL }}"></script>
