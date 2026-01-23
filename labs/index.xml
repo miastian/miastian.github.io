@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Labs on 你的名字</title><link>https://miastian.github.io/labs/</link><description>Recent content in Labs on 你的名字</description><generator>Hugo -- 0.154.3</generator><language>zh-cn</language><lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://miastian.github.io/labs/index.xml" rel="self" type="application/rss+xml"/><item><title>Fitness Log</title><link>https://miastian.github.io/labs/fitness/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate><guid>https://miastian.github.io/labs/fitness/</guid><description>&lt;div class="fitness-wrapper"&gt;
+&lt;div id="fitness-stats" class="fitness-stats"&gt;&lt;/div&gt;
+&lt;div class="fitness-body"&gt;
+&lt;div id="fitness-y-axis" class="fitness-y-axis"&gt;&lt;/div&gt;
+&lt;div class="fitness-main"&gt;
+&lt;div id="fitness-x-axis" class="fitness-x-axis"&gt;&lt;/div&gt;
+&lt;div
+id="fitness-heatmap"
+class="fitness-heatmap"
+data-source="/data/fitness.json"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="fitness-tooltip" class="fitness-tooltip"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="https://miastian.github.io/labs/fitness/heatmap.js"&gt;&lt;/script&gt;</description></item></channel></rss>
